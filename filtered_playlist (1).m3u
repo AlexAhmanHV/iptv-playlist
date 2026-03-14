@@ -1,0 +1,407 @@
+#EXTM3U
+#EXTINF:-1 group-title="Viaplay Sport SE",18:00 Rotterdam P1 | Premier Padel  10/2 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419423
+#EXTINF:-1 group-title="Viaplay Sport SE",18:55 AaB - HB Køge | Betinia LIGA  10/2 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419424
+#EXTINF:-1 group-title="Viaplay Sport SE",21:00 Guardians - Tigers | Major League Baseball  10/2 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419425
+#EXTINF:-1 group-title="Viaplay Sport SE",20:55 Rotherham - Bradford | League One  10/2 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419426
+#EXTINF:-1 group-title="Viaplay Sport SE",01:00 Lotte Championship | LPGA  10/2 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419427
+#EXTINF:-1 group-title="Viaplay Sport SE",01:05 Toronto - Detroit | NHL  10/2 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419428
+#EXTINF:-1 group-title="Viaplay Sport SE",02:55 Indonesiens Grand Prix | Moto3  10/3 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419429
+#EXTINF:-1 group-title="Viaplay Sport SE",03:45 Indonesiens Grand Prix | Moto2  10/3 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419430
+#EXTINF:-1 group-title="Viaplay Sport SE",04:35 Indonesiens Grand Prix | MotoGP  10/3 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419431
+#EXTINF:-1 group-title="Viaplay Sport SE",23:00 Cubs - Padres | Major League Baseball  10/2 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419433
+#EXTINF:-1 group-title="Viaplay Sport SE",02:00 Yankees - Red Sox | Major League Baseball  10/3 [Viaplay SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419434
+#EXTINF:-1 tvg-id="svt1.se" group-title="Sweden",SVT1 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/24639
+#EXTINF:-1 tvg-id="svt1.se" group-title="Sweden",SVT1 HD SE [-2H]
+http://ptv.is:2095/urnyQAFK/fbTXprB/764674
+#EXTINF:-1 tvg-id="svt2.se" group-title="Sweden",SVT2 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/97058
+#EXTINF:-1 tvg-id="svt2.se" group-title="Sweden",SVT2 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/9654
+#EXTINF:-1 tvg-id="tv3.se" group-title="Sweden",TV3 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/34198
+#EXTINF:-1 tvg-id="tv3.se" group-title="Sweden",TV3 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/9651
+#EXTINF:-1 tvg-id="tv4.se" group-title="Sweden",TV4 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/30243
+#EXTINF:-1 tvg-id="tv4.se" group-title="Sweden",TV4 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/38080
+#EXTINF:-1 tvg-id="tv4film.se" group-title="Sweden",TV4 Film HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/8166
+#EXTINF:-1 tvg-id="tv4guld.se" group-title="Sweden",TV4 Guld HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/8161
+#EXTINF:-1 tvg-id="kanal5.se" group-title="Sweden",Kanal 5 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/31056
+#EXTINF:-1 tvg-id="kanal5.se" group-title="Sweden",Kanal 5 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/10051
+#EXTINF:-1 tvg-id="tv6.se" group-title="Sweden",TV6 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/29149
+#EXTINF:-1 tvg-id="tv6.se" group-title="Sweden",TV6 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/8155
+#EXTINF:-1 tvg-id="sjuan.se" group-title="Sweden",Sjuan SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/53620
+#EXTINF:-1 tvg-id="sjuan.se" group-title="Sweden",Sjuan HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/9633
+#EXTINF:-1 tvg-id="tv8.se" group-title="Sweden",TV8 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/8158
+#EXTINF:-1 tvg-id="tv8.se" group-title="Sweden",TV8 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/80900
+#EXTINF:-1 tvg-id="kanal9.se" group-title="Sweden",Kanal 9 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/30523
+#EXTINF:-1 tvg-id="kanal9.se" group-title="Sweden",Kanal 9 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/11304
+#EXTINF:-1 tvg-id="kanal9.se" group-title="Sweden",Kanal 9 FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/11623
+#EXTINF:-1 tvg-id="tv10.se" group-title="Sweden",TV10 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/31057
+#EXTINF:-1 tvg-id="tv10.se" group-title="Sweden",TV10 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/11118
+#EXTINF:-1 tvg-id="kanal11.se" group-title="Sweden",Kanal 11 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/31098
+#EXTINF:-1 tvg-id="kanal11.se" group-title="Sweden",Kanal 11 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/9638
+#EXTINF:-1 tvg-id="tv12.se" group-title="Sweden",TV12 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/30522
+#EXTINF:-1 tvg-id="tv12.se" group-title="Sweden",TV12 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/11923
+#EXTINF:-1 tvg-id="n1playcomedyfhdse.ad" group-title="Sweden",N1 Play Comedy FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/119977
+#EXTINF:-1 group-title="Sweden",N1 Play Astrid Lindgren FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1159380
+#EXTINF:-1 group-title="Sweden",N1 Play Friends FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1170458
+#EXTINF:-1 group-title="Sweden",N1 Play Two and a Half Men FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1154330
+#EXTINF:-1 group-title="Sweden",N1 Play How I Met Your Mother FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1154310
+#EXTINF:-1 group-title="Sweden",N1 Play The Big Bang Theory FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1154290
+#EXTINF:-1 group-title="Sweden",N1 Play The Simpsons FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1154314
+#EXTINF:-1 group-title="Sweden",N1 Play Harry Potter FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1141131
+#EXTINF:-1 group-title="Sweden",N1 Play James Bond FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1119179
+#EXTINF:-1 group-title="Sweden",N1 Play Johan Falk FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1141127
+#EXTINF:-1 tvg-id="n1playswedishfhdse.se" group-title="Sweden",N1 Play Svensk Film FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/119341
+#EXTINF:-1 group-title="Sweden",N1 Play Beck FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/342231
+#EXTINF:-1 tvg-id="sfkanalen.se" group-title="Sweden",SF-Kanalen SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/11529
+#EXTINF:-1 tvg-id="mtv.se" group-title="Sweden",MTV HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/66789
+#EXTINF:-1 tvg-id="ExpressenTV" group-title="Sweden",Expressen TV HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/17581
+#EXTINF:-1 group-title="Sweden",SportExpressen TV FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/29352
+#EXTINF:-1 tvg-id="eurosport.se" group-title="Sweden",Eurosport 1 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/46220
+#EXTINF:-1 tvg-id="eurosport2.se" group-title="Sweden",Eurosport 2 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/46221
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 1 SE [ifk-karlshamn-solvesborgs-gif]
+http://ptv.is:2095/urnyQAFK/fbTXprB/30668
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 2 SE [FC Köpenhamn vs Leverkusen @ Sep 18 6:35 PM]
+http://ptv.is:2095/urnyQAFK/fbTXprB/40671
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 3 SE [Club Brugge vs Monaco @ Sep 18 6:40 PM]
+http://ptv.is:2095/urnyQAFK/fbTXprB/38876
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 4 SE [Frankfurt vs Galatasaray @ Sep 18 8:50 PM]
+http://ptv.is:2095/urnyQAFK/fbTXprB/52819
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 5 SE [Sporting vs Kairat @ Sep 18 8:55 PM]
+http://ptv.is:2095/urnyQAFK/fbTXprB/30739
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 6 SE [Brentford vs Aston Villa @ Sep 16 8:55 PM]
+http://ptv.is:2095/urnyQAFK/fbTXprB/100967
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 7 SE [Benfica vs Qarabağ @ Sep 16 8:55 PM]
+http://ptv.is:2095/urnyQAFK/fbTXprB/100968
+#EXTINF:-1 group-title="Sweden",N1 Play PPV 8 SE [Crystal Palace vs Millwall @ Sep 16 8:55 PM]
+http://ptv.is:2095/urnyQAFK/fbTXprB/51154
+#EXTINF:-1 tvg-id="tv4sportkanalen.se" group-title="Sweden",TV4 Sportkanalen SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/18697
+#EXTINF:-1 tvg-id="tv4sportkanalen.se" group-title="Sweden",TV4 Sportkanalen HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35921
+#EXTINF:-1 tvg-id="tv4fotboll.se" group-title="Sweden",TV4 Fotboll SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/34737
+#EXTINF:-1 tvg-id="tv4fotboll.se" group-title="Sweden",TV4 Fotboll HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35838
+#EXTINF:-1 tvg-id="tv4hockey.se" group-title="Sweden",TV4 Hockey SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/41111
+#EXTINF:-1 tvg-id="tv4hockey.se" group-title="Sweden",TV4 Hockey HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35259
+#EXTINF:-1 tvg-id="tv4motor.se" group-title="Sweden",TV4 Motor SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35181
+#EXTINF:-1 tvg-id="tv4motor.se" group-title="Sweden",TV4 Motor HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/38506
+#EXTINF:-1 tvg-id="tv4tennis.se" group-title="Sweden",TV4 Tennis SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35366
+#EXTINF:-1 tvg-id="tv4tennis.se" group-title="Sweden",TV4 Tennis HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/80899
+#EXTINF:-1 tvg-id="tv4sportlive.se" group-title="Sweden",TV4 Sport Live SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/34710
+#EXTINF:-1 tvg-id="tv4sportlive.se" group-title="Sweden",TV4 Sport Live HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/8168
+#EXTINF:-1 tvg-id="tv4sportlive2.se" group-title="Sweden",TV4 Sport Live 2 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/34711
+#EXTINF:-1 tvg-id="tv4sportlive2.se" group-title="Sweden",TV4 Sport Live 2 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/46225
+#EXTINF:-1 tvg-id="tv4sportlive3.se" group-title="Sweden",TV4 Sport Live 3 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35374
+#EXTINF:-1 tvg-id="tv4sportlive3.se" group-title="Sweden",TV4 Sport Live 3 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/46227
+#EXTINF:-1 tvg-id="tv4sportlive4.se" group-title="Sweden",TV4 Sport Live 4 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35365
+#EXTINF:-1 tvg-id="tv4sportlive4.se" group-title="Sweden",TV4 Sport Live 4 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/46228
+#EXTINF:-1 tvg-id="viasatfilmaction.se" group-title="Sweden",V Film Action HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/37058
+#EXTINF:-1 tvg-id="viasatfilmhits.se" group-title="Sweden",V Film Hits HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/37065
+#EXTINF:-1 tvg-id="viasatfilmfamily.se" group-title="Sweden",V Film Family HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/33579
+#EXTINF:-1 tvg-id="viasatfilmpremiere.se" group-title="Sweden",V Film Premiere HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/37066
+#EXTINF:-1 tvg-id="viasatseries.se" group-title="Sweden",V Series HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/8208
+#EXTINF:-1 tvg-id="viasatexplore.se" group-title="Sweden",Viasat Explorer HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/37061
+#EXTINF:-1 tvg-id="viasatnature.se" group-title="Sweden",Viasat Nature HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35187
+#EXTINF:-1 tvg-id="viasathistory.se" group-title="Sweden",Viasat History HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/31750
+#EXTINF:-1 tvg-id="viasathistory.se" group-title="Sweden",Viasat History HD SE [Multi-Sub]
+http://ptv.is:2095/urnyQAFK/fbTXprB/37074
+#EXTINF:-1 tvg-id="viasatsportvinter.se" group-title="Sweden",V Sport Vinter SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35121
+#EXTINF:-1 tvg-id="viasatsportvinter.se" group-title="Sweden",V Sport Vinter HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/40983
+#EXTINF:-1 tvg-id="viasatmotor.se" group-title="Sweden",V Sport Motor SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35120
+#EXTINF:-1 tvg-id="viasatmotor.se" group-title="Sweden",V Sport Motor HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/37562
+#EXTINF:-1 tvg-id="viasatgolf.se" group-title="Sweden",V Sport Golf SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/154650
+#EXTINF:-1 tvg-id="VSportGolf.se" group-title="Sweden",V Sport Golf HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/38078
+#EXTINF:-1 tvg-id="viaplaysport.se" group-title="Sweden",Viaplay Sport SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1312667
+#EXTINF:-1 tvg-id="viaplaysport.se" group-title="Sweden",Viaplay Sport HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/1311660
+#EXTINF:-1 group-title="Sweden",Amazon Prime FHD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1240721
+#EXTINF:-1 tvg-id="vsportfotboll.se" group-title="Sweden",V Sport Fotboll SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35118
+#EXTINF:-1 tvg-id="vsportfotboll.se" group-title="Sweden",V Sport Fotboll HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/40982
+#EXTINF:-1 tvg-id="vsportfotboll.se" group-title="Sweden",V Sport Fotboll FHD SE [Viaplay]
+http://ptv.is:2095/urnyQAFK/fbTXprB/953007
+#EXTINF:-1 tvg-id="viasatsport.se" group-title="Sweden",V Sport 1 SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35119
+#EXTINF:-1 tvg-id="viasatsport.se" group-title="Sweden",V Sport 1 HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/8183
+#EXTINF:-1 tvg-id="vsportextra.se" group-title="Sweden",V Sport Extra SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35372
+#EXTINF:-1 tvg-id="vsportextra.se" group-title="Sweden",V Sport Extra HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/49966
+#EXTINF:-1 tvg-id="viasatsportpremium.se" group-title="Sweden",V Sport Premium SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/30976
+#EXTINF:-1 tvg-id="viasatsportpremium.se" group-title="Sweden",V Sport Premium HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/35456
+#EXTINF:-1 tvg-id="viasatsportpremium.se" group-title="Sweden",V Sport Premium FHD SE [Viaplay]
+http://ptv.is:2095/urnyQAFK/fbTXprB/952994
+#EXTINF:-1 group-title="Sweden",Viaplay Fotbollslördag HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1275822
+#EXTINF:-1 group-title="Sweden",Viaplay Event 1 HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1275823
+#EXTINF:-1 group-title="Sweden",Viaplay Event 2 HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1275824
+#EXTINF:-1 group-title="Sweden",V Sport Live 1 HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/32109
+#EXTINF:-1 tvg-id="VSportLive2.se" group-title="Sweden",V Sport Live 2 HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/32110
+#EXTINF:-1 tvg-id="VSportLive3.se" group-title="Sweden",V Sport Live 3 HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/32111
+#EXTINF:-1 tvg-id="VSportLive4.se" group-title="Sweden",V Sport Live 4 HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/32112
+#EXTINF:-1 tvg-id="VSportLive5.se" group-title="Sweden",V Sport Live 5 HD SE [Live During Events Only]
+http://ptv.is:2095/urnyQAFK/fbTXprB/32113
+#EXTINF:-1 group-title="SportExpressen/Aftonbladet SE",18:15 Se ESPN Matchcenter på Sportbladet 10/2 [Aftonbladet]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419197
+#EXTINF:-1 group-title="SportExpressen/Aftonbladet SE",18:50 Södertälje - Högsbo 10/2 [S.Expressen]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419323
+#EXTINF:-1 group-title="Max Sports SE",14:00 Featured Groups | Sanderson Farms Championship golf FHD 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419240
+#EXTINF:-1 group-title="Max Sports SE",14:00 Featured Groups | Sanderson Farms Championship golf 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419242
+#EXTINF:-1 group-title="Max Sports SE",18:00 Compliance Solutions Championship | Dag 1  golf FHD 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419254
+#EXTINF:-1 group-title="Max Sports SE",18:00 Compliance Solutions Championship | Dag 1  golf 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419255
+#EXTINF:-1 group-title="Max Sports SE",21:40 Huvudsändning | Sanderson Farms Championship golf FHD 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419256
+#EXTINF:-1 group-title="Max Sports SE",21:40 Huvudsändning | Sanderson Farms Championship golf 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419257
+#EXTINF:-1 group-title="Max Sports SE",22:00 Featured Groups | Sanderson Farms Championship golf FHD 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419258
+#EXTINF:-1 group-title="Max Sports SE",22:00 Featured Groups | Sanderson Farms Championship golf 10/2 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419259
+#EXTINF:-1 group-title="Max Sports SE",04:35 Tour de Langkawi | Etapp 6 cykel FHD 10/3 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419260
+#EXTINF:-1 group-title="Max Sports SE",04:35 Tour de Langkawi | Etapp 6 cykel 10/3 [MAX SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419261
+#EXTINF:-1 group-title="Discovery+ Sport SE",=== Live During Events Only ===
+http://ptv.is:2095/urnyQAFK/fbTXprB/64057
+#EXTINF:-1 group-title="Discovery+ Sport SE",14:00 Featured Groups | Sanderson Farms Championship golf HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419116
+#EXTINF:-1 group-title="Discovery+ Sport SE",14:00 Featured Groups | Sanderson Farms Championship golf SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419119
+#EXTINF:-1 group-title="Discovery+ Sport SE",18:00 Compliance Solutions Championship | Dag 1  golf HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419144
+#EXTINF:-1 group-title="Discovery+ Sport SE",18:00 Compliance Solutions Championship | Dag 1  golf SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419145
+#EXTINF:-1 group-title="Discovery+ Sport SE",18:28 Hopp | Wien ridsport HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419146
+#EXTINF:-1 group-title="Discovery+ Sport SE",18:28 Hopp | Wien ridsport SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419147
+#EXTINF:-1 group-title="Discovery+ Sport SE",19:03 Boston | World Series klippdykning HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419148
+#EXTINF:-1 group-title="Discovery+ Sport SE",19:03 Boston | World Series klippdykning SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419149
+#EXTINF:-1 group-title="Discovery+ Sport SE",20:02 Racing on the edge  HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419150
+#EXTINF:-1 group-title="Discovery+ Sport SE",20:02 Racing on the edge  SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419151
+#EXTINF:-1 group-title="Discovery+ Sport SE",20:11 Hopp | Wien ridsport HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419152
+#EXTINF:-1 group-title="Discovery+ Sport SE",20:11 Hopp | Wien ridsport SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419153
+#EXTINF:-1 group-title="Discovery+ Sport SE",20:32 Tour de Langkawi | Etapp 4 cykel HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419154
+#EXTINF:-1 group-title="Discovery+ Sport SE",20:32 Tour de Langkawi | Etapp 4 cykel SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419155
+#EXTINF:-1 group-title="Discovery+ Sport SE",21:14 Tour de Langkawi | Etapp 5 cykel HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419156
+#EXTINF:-1 group-title="Discovery+ Sport SE",21:14 Tour de Langkawi | Etapp 5 cykel SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419157
+#EXTINF:-1 group-title="Discovery+ Sport SE",21:40 Huvudsändning | Sanderson Farms Championship golf HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419158
+#EXTINF:-1 group-title="Discovery+ Sport SE",21:40 Huvudsändning | Sanderson Farms Championship golf SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419159
+#EXTINF:-1 group-title="Discovery+ Sport SE",21:58 Cro Race | Etapp 3 cykel HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419160
+#EXTINF:-1 group-title="Discovery+ Sport SE",21:58 Cro Race | Etapp 3 cykel SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419161
+#EXTINF:-1 group-title="Discovery+ Sport SE",22:00 Featured Groups | Sanderson Farms Championship golf HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419162
+#EXTINF:-1 group-title="Discovery+ Sport SE",22:00 Sanderson Farms Championship | Dag 1 golf HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419163
+#EXTINF:-1 group-title="Discovery+ Sport SE",22:00 Featured Groups | Sanderson Farms Championship golf SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419164
+#EXTINF:-1 group-title="Discovery+ Sport SE",22:00 Sanderson Farms Championship | Dag 1 golf SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419165
+#EXTINF:-1 group-title="Discovery+ Sport SE",23:23 FIA WEC | 6 Hours of Fuji endurance car racing HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419166
+#EXTINF:-1 group-title="Discovery+ Sport SE",23:23 FIA WEC | 6 Hours of Fuji endurance car racing SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419167
+#EXTINF:-1 group-title="Discovery+ Sport SE",00:30 Hopp | Wien ridsport HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419168
+#EXTINF:-1 group-title="Discovery+ Sport SE",00:30 Hopp | Wien ridsport SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419169
+#EXTINF:-1 group-title="Discovery+ Sport SE",00:55 Boston | World Series klippdykning HD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419170
+#EXTINF:-1 group-title="Discovery+ Sport SE",00:55 Boston | World Series klippdykning SD 10/2 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419171
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:04 Superbike | Aragon superbike HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419172
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:04 Superbike | Aragon superbike SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419173
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:04 Racing on the edge  HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419174
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:04 Racing on the edge  SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419175
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:42 PTO Tour | Oropesa Del Mar triathlon HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419176
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:42 PTO Tour | Oropesa Del Mar triathlon SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419177
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:54 Supersport | Aragon superbike HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419178
+#EXTINF:-1 group-title="Discovery+ Sport SE",02:54 Supersport | Aragon superbike SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419179
+#EXTINF:-1 group-title="Discovery+ Sport SE",03:41 Superbike | Aragon superbike HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419180
+#EXTINF:-1 group-title="Discovery+ Sport SE",03:41 Superbike | Aragon superbike SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419181
+#EXTINF:-1 group-title="Discovery+ Sport SE",03:43 Kigali   cykel HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419182
+#EXTINF:-1 group-title="Discovery+ Sport SE",03:43 Kigali   cykel SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419183
+#EXTINF:-1 group-title="Discovery+ Sport SE",04:17 Supersport | Aragon superbike HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419184
+#EXTINF:-1 group-title="Discovery+ Sport SE",04:17 Supersport | Aragon superbike SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419185
+#EXTINF:-1 group-title="Discovery+ Sport SE",04:35 Tour de Langkawi | Etapp 6 cykel HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419186
+#EXTINF:-1 group-title="Discovery+ Sport SE",04:35 Tour de Langkawi | Etapp 6 cykel SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419187
+#EXTINF:-1 group-title="Discovery+ Sport SE",05:05 Endurance Uncovered Racing for Excellence  HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419188
+#EXTINF:-1 group-title="Discovery+ Sport SE",05:05 Endurance Uncovered Racing for Excellence  SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419189
+#EXTINF:-1 group-title="Discovery+ Sport SE",05:26 Tailem Bend | World Tour fia wtcr HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419190
+#EXTINF:-1 group-title="Discovery+ Sport SE",05:26 Tailem Bend | World Tour fia wtcr SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419191
+#EXTINF:-1 group-title="Discovery+ Sport SE",06:00 Hopp | Wien ridsport HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419192
+#EXTINF:-1 group-title="Discovery+ Sport SE",06:00 Herrar Boulder | Final klättring HD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419193
+#EXTINF:-1 group-title="Discovery+ Sport SE",06:00 Hopp | Wien ridsport SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419194
+#EXTINF:-1 group-title="Discovery+ Sport SE",06:00 Herrar Boulder | Final klättring SD 10/3 [D+ SE]
+http://ptv.is:2095/urnyQAFK/fbTXprB/1419195
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Lyxfällan SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/297606
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Alla mot alla med Filip och Fredrik HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100032
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Bäst i Test HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100087
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Böda Camping HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100222
+#EXTINF:-1 group-title="24/7 Swedish",24/7 C/o Segemyhr HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100089
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Full frys SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/101470
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Gustafsson 3 tr HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100132
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Johan Falk FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/99485
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Jägarna HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100088
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Leif och Billy FHD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/140916
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Morran och Tobias HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/110648
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Rena rama Rolf SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/101471
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Rederiet HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100104
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Solsidan HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100243
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Svensson Svensson HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100109
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Tre Kronor HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100134
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Tunna Blå Linjen HD SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/100210
+#EXTINF:-1 group-title="24/7 Swedish",24/7 Just Tattoo of Us SE
+http://ptv.is:2095/urnyQAFK/fbTXprB/297700
